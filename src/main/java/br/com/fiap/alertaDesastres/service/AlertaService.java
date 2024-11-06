@@ -3,6 +3,7 @@ package br.com.fiap.alertaDesastres.service;
 
 
 import br.com.fiap.alertaDesastres.model.Alerta;
+
 import br.com.fiap.alertaDesastres.repository.AlertaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
